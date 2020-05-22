@@ -1,0 +1,10 @@
+setup.py
+modules/__init__.py
+modules/funcmat.py
+modules/modulo_persona.py
+modules/uso_funciones.py
+modules/uso_person.py
+packs.egg-info/PKG-INFO
+packs.egg-info/SOURCES.txt
+packs.egg-info/dependency_links.txt
+packs.egg-info/top_level.txt
